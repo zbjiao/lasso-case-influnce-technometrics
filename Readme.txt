@@ -54,3 +54,6 @@ Runtime estimate:
 +--------------------------------+-----------------+------------------------+
 | Glioblastoma_example(Table4).R |       5min      |          8min          |
 +--------------------------------+-----------------+------------------------+
+
+
+The R package, CaseWeightLasso, which implements the algorithm and produces Cook's distance and case influence graphs for Lasso is also available at the GitHub repository: https://github.com/zbjiao/CaseWeightLasso.
